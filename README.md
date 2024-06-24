@@ -1,4 +1,4 @@
-# course_adv_main
+# Quiz Game
 
 A new Flutter project.
 
